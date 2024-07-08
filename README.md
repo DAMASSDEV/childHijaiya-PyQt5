@@ -10,7 +10,7 @@
 
 <br/>
 <h2>Tampilan di Python</h2>
-![image](https://github.com/Damassdev/childHijaiya-PyQt5/assets/168662030/a769cec7-ff47-49f1-8819-bd42526ae21f)
+<img src="https://github.com/Damassdev/childHijaiya-PyQt5/assets/168662030/a769cec7-ff47-49f1-8819-bd42526ae21f" />
 
 <p>
 - Using PyQt5 requires installing the library in the following cmd:
